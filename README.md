@@ -7,7 +7,11 @@ I'm Jian Wei Tay, a Research Associate at the BioFrontiers Institute, University
 * [BioFormats MATLAB Toolbox](https://github.com/Biofrontiers-ALMC/bioformats-matlab)
 * [ND2 Reader for MATLAB](https://github.com/jwtay1/nd2sdk-MATLAB)
 
-For more information about my work, please visit my [personal website](https://jianweitay.com) or the [Advanced Light Microscopy Core](https://advancedimaging.colorado.edu).
+#### Contact
+
+For more information about my work, please visit my [personal website](https://jianweitay.com) or the [Advanced Light Microscopy Core](https://advancedimaging.colorado.edu). 
+
+I am always on the lookout for collaborations! If you have any biological image analysis questions, please feel free to reach out.
 
 
 
