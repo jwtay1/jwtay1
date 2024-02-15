@@ -1,6 +1,6 @@
 ### Kia Ora 👋
 
-I'm Jian Wei Tay, a Research Associate at the BioFrontiers Institute, University of Colorado Boulder. I use advanced microscopy and computational techniques to study the molecular and biochemical processes in cells. 
+I'm Jian Wei Tay, the Biological Image Analysis Group Leader at the BioFrontiers Institute, University of Colorado Boulder. I use advanced microscopy and computational techniques to study the molecular and biochemical processes in cells. 
 
 #### Ongoing Projects
 * [Cell Tracking Toolbox](https://github.com/Biofrontiers-ALMC/cell-tracking-toolbox)
