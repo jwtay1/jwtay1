@@ -1,13 +1,19 @@
-### Kia Ora 👋
+# Kia Ora 👋
 
 I'm Jian Wei Tay, the Biological Image Analysis Group Leader at the BioFrontiers Institute, University of Colorado Boulder. I use advanced microscopy and computational techniques to study the molecular and biochemical processes in cells. 
 
-#### Ongoing Projects
+## Teaching
+
+###2004
+* [MCDB 6440](https://qoi-course.github.io/mcdb-6440/)
+
+## Ongoing Projects
+* [VIABLE Virtual Biology Lab](https://github.com/project-viable/viable-virtual-lab) ([demo](https://project-viable.github.io/viable-virtual-lab/export/VirtualLabExport.html))
 * [Cell Tracking Toolbox](https://github.com/Biofrontiers-ALMC/cell-tracking-toolbox)
 * [BioFormats MATLAB Toolbox](https://github.com/Biofrontiers-ALMC/bioformats-matlab)
 * [ND2 Reader for MATLAB](https://github.com/jwtay1/nd2sdk-MATLAB)
 
-#### Contact
+## Contact
 
 For more information about my work, please visit my [personal website](https://jianweitay.com) or the [Advanced Light Microscopy Core](https://advancedimaging.colorado.edu). 
 
