@@ -4,7 +4,7 @@ I'm Jian Wei Tay, the Biological Image Analysis Group Leader at the BioFrontiers
 
 ## Teaching
 
-###2004
+### 2004
 * [MCDB 6440](https://qoi-course.github.io/mcdb-6440/)
 
 ## Ongoing Projects
