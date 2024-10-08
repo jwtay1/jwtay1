@@ -7,6 +7,7 @@ I'm Jian Wei Tay, the Biological Image Analysis Group Leader at the BioFrontiers
 
 ## Recent Projects
 * [VIABLE Virtual Biology Lab](https://github.com/project-viable/viable-virtual-lab) ([demo](https://project-viable.github.io/viable-virtual-lab/export/VirtualLabExport.html))
+* [Cypose: Fine-tuned models for cyanobacteria segmentation and classification](https://github.com/cameronlab/cypose)
 * [CyAn: Cyanobacteria Image Analysis Toolbox](https://github.com/Biofrontiers-ALMC/CyAn)
 * [Cell Tracking Toolbox](https://github.com/Biofrontiers-ALMC/cell-tracking-toolbox)
 * [BioFormats MATLAB Toolbox](https://github.com/Biofrontiers-ALMC/bioformats-matlab)
