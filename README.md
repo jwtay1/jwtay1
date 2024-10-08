@@ -5,11 +5,11 @@ I'm Jian Wei Tay, the Biological Image Analysis Group Leader at the BioFrontiers
 * [BioFrontiers Bioimage Analysis Group](https://github.com/BioimageAnalysis) - Ongoing research projects.
 * [BioFrontiers Advanced Light Microscopy Core](https://github.com/Biofrontiers-ALMC) - Code for smaller projects, including more routine image analysis work.
 
-## Highlighted Projects
+## Recent Projects
 * [VIABLE Virtual Biology Lab](https://github.com/project-viable/viable-virtual-lab) ([demo](https://project-viable.github.io/viable-virtual-lab/export/VirtualLabExport.html))
+* [CyAn: Cyanobacteria Image Analysis Toolbox](https://github.com/Biofrontiers-ALMC/CyAn)
 * [Cell Tracking Toolbox](https://github.com/Biofrontiers-ALMC/cell-tracking-toolbox)
 * [BioFormats MATLAB Toolbox](https://github.com/Biofrontiers-ALMC/bioformats-matlab)
-* [ND2 Reader for MATLAB](https://github.com/jwtay1/nd2sdk-MATLAB)
 
 ## Teaching Resources
 
