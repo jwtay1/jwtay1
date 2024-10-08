@@ -1,6 +1,6 @@
 # Kia Ora, Hello 👋
 
-I'm Jian Wei Tay, the Biological Image Analysis Group Leader at the BioFrontiers Institute, University of Colorado Boulder. This page lists some of my personal projects, although the vast majority of my work is available at the following GitHub organizations:
+I'm Jian Wei Tay, the Biological Image Analysis Group Leader at the BioFrontiers Institute, University of Colorado Boulder. This page lists some of my personal projects, although the majority of my work is available at the following GitHub organizations:
 
 * [BioFrontiers Bioimage Analysis Group](https://github.com/BioimageAnalysis) - Ongoing research projects.
 * [BioFrontiers Advanced Light Microscopy Core](https://github.com/Biofrontiers-ALMC) - Code for smaller projects, including more routine image analysis work.
