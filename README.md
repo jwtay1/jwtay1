@@ -1,11 +1,12 @@
 # Kia Ora, Hello 👋
 
-I'm Jian Wei Tay, a Core Bioinformatics Scientist at the Van Andel Institute Optical Imaging Core. I collaborate with researchers on biological image analysis. Prior to joining VAI, I was the Biological Image Analysis Group Leader at the BioFrontiers Institute, University of Colorado Boulder. 
+I'm Jian Wei Tay, a Core Bioinformatics Scientist at the [Van Andel Institute](https://www.vai.org). My work within the [Optical Imaging Core](https://opticalimagingcore.vai.org/) bridges the gap between raw microscopy and data science, as I develop the software and analytical frameworks required to decode complex datasets in the fight against human disease. Prior to joining VAI, I was the Biological Image Analysis Group Leader at the BioFrontiers Institute, University of Colorado Boulder.
 
 This page lists some of my personal projects, although the majority of my work is available at the following GitHub organizations:
 
-* [BioFrontiers Advanced Light Microscopy Core](https://github.com/Biofrontiers-ALMC) - Code for various image analysis projects.
-* [Bioimage Analysis Group](https://github.com/BioimageAnalysis) - Ongoing research projects and collaborations.
+* [Bioimage Analysis Group](https://github.com/BioimageAnalysis) - Image analysis software and packages
+* [VAI Optical Imaging Core GitHub](https://github.com/vaioic)
+* [BioFrontiers Advanced Light Microscopy Core](https://github.com/Biofrontiers-ALMC)
 
 ## Toolboxes for image analysis
 * [BioFormats MATLAB](https://github.com/Biofrontiers-ALMC/bioformats-matlab) - A (re)-implementation of a MATLAB class for the [BioFormats library](https://www.openmicroscopy.org/bio-formats/).
@@ -19,26 +20,14 @@ This page lists some of my personal projects, although the majority of my work i
 * [CyAn: Cyanobacteria Image Analysis Toolbox](https://github.com/Biofrontiers-ALMC/CyAn) - A collection of code and scripts to study cyanobacteria
 * [Cell Tracking Toolbox](https://github.com/Biofrontiers-ALMC/cell-tracking-toolbox) - Written from scratch to track cells and identify division events
 
-## Teaching Resources
-
-### 2024
-* [MCDB 6440](https://qoi-course.github.io/mcdb-6440/) - Python-based image analysis crash course
-
-### 2020
-* [Image Analysis Workshop](https://github.com/jwtay1/workshop-PAC-2020-image-analysis) - A primer on image analysis to the Postdoctoral Association at CU Boulder
-
 ## Side projects
 
 ### Websites
-* [CU Boulder Hugo theme](https://github.com/Biofrontiers-ALMC/hugo-theme-cuboulder) - Theme for the [ALMC website](https://advancedimaging.colorado.edu/) which I develop and maintain
 * [Folio Hugo Theme](https://gitlab.com/jwtay/hugo-theme-folio) - A theme for my [personal website](https://jianweitay.com). Built primarily with Bootstrap.
 * [Janssen Hugo theme](https://github.com/jwtay1/hugo-theme-janssen) - A theme for a documentation website, built from the ground up.
 
-### Experiments
-* [MATdoc](https://github.com/jwtay1/MATdoc) - An experimental project to export documentation for MATLAB projects
-
 ## Contact
 
-For more information about my work, please visit my [personal website](https://jianweitay.com) or the [Advanced Light Microscopy Core](https://advancedimaging.colorado.edu). 
+For more information about my work, please visit my [personal website](https://jianweitay.com). 
 
 I am always on the lookout for collaborations! If you have any biological image analysis questions, please feel free to reach out.
